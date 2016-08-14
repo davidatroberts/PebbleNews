@@ -1,0 +1,22 @@
+{
+  "uuid": "09a558b7-002e-4279-b36e-3fb4a79f1e98",
+  "shortName": "PebbleNews",
+  "longName": "PebbleNews",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "AppKeyJSReady": 0,
+    "AppKeyNumItems": 1,
+    "AppKeyItemID": 2,
+    "AppKeyItemTitle": 3
+  },
+  "resources": {
+    "media": []
+  }
+}
